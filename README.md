@@ -1,6 +1,7 @@
 # Horiseon Social Solutions Services - Landing Page Website
 
-## Table of Contents
+<h2 style="text-align:center" id="top"> Table of Contents </h2>
+
 - [Purpose](#Purpose)
 - [Features](#Features)
 - [Installation](#Installation)
@@ -10,7 +11,7 @@
 
 
 
-## Purpose
+<h2 style="text-align:center" id="purpose">Purpose</h2>
 
 This application is a single page website. It has hyperlinks to internal content on the same page. Apart from the hyperlinks there is no functionality.
 
@@ -20,23 +21,33 @@ The site can be used as an example of semantic html coding as well as pruning un
 
 As a result of this work I have learnt and refined the basics for website design using html and css.
 
-[Horiseon Website](assets/images/dawildbadger.github.io.png)
+<img src="./assets/images/Full-Website-Screenshot.png" alt="Screenshot of Landing Page." />
 
-## Features
+<h2 style="text-align:center" id="features">Features</h2>
 This site has been created keeping accessability standards in mind.
 It includes semantic html elements. These have been constructed in a logical structure. I have included five images all include alt text as part of the accessability standards I have met.
 The title was updated to correctly reflect the organisations name.
 
-## Installation 
+<h2 style="text-align:center" id="installation">Installation</h2> 
 As this is a single landing page website if you open the index.html file in any conventional browser.
 
-## Credits
+<h2 style="text-align:center" id="credits"> Credits</h2>
 Spencer Badger
-Assets - Provided by Monash University Full Stack Boot Camp on behalf of Trilogy Education - 2021
 
-## License
+Monash University Full Stack Boot Camp on behalf of Trilogy Education - 2021 (Provided Assets)
+
+<h2 style="text-align:center">License</h2>
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
-## Badges
+<h2 style="text-align:center">Badges</h2>
 ![GitHub followers](https://img.shields.io/github/followers/DaWildBadger?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/DaWildBadger?style=social)
+
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=DaWildBadger)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DaWildBadger&show_icons=true)
+
+[TOP](#TOP)
