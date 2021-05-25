@@ -19,7 +19,8 @@ I built this website as a way to practice my html/css skills. It was a way for m
 The site can be used as an example of semantic html coding as well as pruning unneccesary css. 
 
 As a result of this work I have learnt and refined the basics for website design using html and css.
-![Horiseon Website](assets/image/dawildbadger.github.io.png)
+
+[Horiseon Website](assets/images/dawildbadger.github.io.png)
 
 ## Features
 This site has been created keeping accessability standards in mind.
