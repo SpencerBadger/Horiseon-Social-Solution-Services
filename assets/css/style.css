@@ -1,3 +1,6 @@
+/*
+Shifted the a and p tag to the top and covering the entire page.
+*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -20,7 +23,9 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*
+The main title of the page.
+*/
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -28,7 +33,9 @@ header h1 {
 .seo{
     color: #d9dcd6;
 }
-
+/* 
+Here is the navigation bar settings
+*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -43,10 +50,15 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/*
+Added a hover feature to illustrate when the mouse is over the hyperlink.
+*/
 header nav ul li a:hover{
     color:#2589bd
 }
-
+/* 
+Settings for image before the main content.
+*/
 .hero {
     height: 800px;
     width: 100%;
@@ -55,7 +67,9 @@ header nav ul li a:hover{
     background-size: cover;
     background-position: center;
 }
-
+/*
+Settings for the main content images.
+*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -65,13 +79,17 @@ header nav ul li a:hover{
     float: right;
     margin-left: 25px;
 }
-
+/*
+Settings for the main content.
+*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*
+Settings for the main content "benefits" container.
+*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -82,6 +100,9 @@ header nav ul li a:hover{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+/*
+Settings for the "benefit" class.
+*/
 .benefit{
     margin-bottom: 32px;
     color: #ffffff;
@@ -97,6 +118,9 @@ header nav ul li a:hover{
     margin: 10px auto;
     max-width: 150px;
 }
+/* 
+Settings for the "services" class container.
+*/
 .services{
     margin-bottom: 20px;
     padding: 50px;
@@ -112,7 +136,9 @@ header nav ul li a:hover{
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*
+Settings for the site footer.
+*/
 footer {
     padding: 30px;
     clear: both;
