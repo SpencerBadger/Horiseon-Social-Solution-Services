@@ -31,11 +31,11 @@ I have included five images all include alt text as part of the accessability st
 The title was updated to correctly reflect the organisations name.
 
 ## <h2 style="text-align:center" id="installation">Installation</h2> 
-As this is a single landing page website if you open the index.html file in any conventional browser you will be able to see the page.
+This project can be viewed at [Horiseon Social Solution Services Website](https://dawildbadger.github.io/Horiseon-Social-Solution-Services/)
+
+As this is a single landing page website no installation is required. However you can download the html and assets and run in your preferred web browser.
 
 ## <h2 style="text-align:center" id="credits"> Credits</h2>
-Spencer Badger
-
 Monash University Full Stack Boot Camp on behalf of Trilogy Education - 2021 (Provided Assets)
 
 Meyerweb.com (CSS Reset)
