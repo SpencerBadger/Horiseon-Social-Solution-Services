@@ -44,12 +44,12 @@ Meyerweb.com (CSS Reset)
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## <h2 style="text-align:center">Badges</h2>
-![GitHub followers](https://img.shields.io/github/followers/DaWildBadger?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/DaWildBadger?style=social)
+![GitHub followers](https://img.shields.io/github/followers/SpencerBadger?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/SpencerBadger?style=social)
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=DaWildBadger)
+![Profile View Counter](https://komarev.com/ghpvc/?username=SpencerBadger)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DaWildBadger&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SpencerBadger&show_icons=true)
